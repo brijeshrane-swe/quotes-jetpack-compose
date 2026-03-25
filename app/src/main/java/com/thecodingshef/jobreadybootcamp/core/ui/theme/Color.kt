@@ -32,7 +32,9 @@ object AppColors {
 
 // Aliases for backward compatibility or existing usage
 val PrimaryBlue = AppColors.Primary
-val PrimaryDark = AppColors.PrimaryDark
+val PrimaryDark = AppColors.Black
+
+val Transparent = AppColors.Transparent
 val AccentGreen = AppColors.Success
 val ErrorRed = AppColors.Error
 val BackgroundLight = AppColors.White
